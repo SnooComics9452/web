@@ -8,7 +8,7 @@
 
 function logIP()
 {
-     $ipLog="logfile.htm"; // Your logfiles name here (.txt or .html extensions ok)
+     $ipLog="logfile.txt"; // Your logfiles name here (.txt or .html extensions ok)
 
      
 
