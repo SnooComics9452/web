@@ -5,4 +5,11 @@
                         url('https://snoocomics9452.github.io/web/intelonedisplaylight-webfont.woff') format('woff'),
                         url('https://snoocomics9452.github.io/web/intelonedisplaylight-webfont.ttf') format('truetype'),
                         url('https://snoocomics9452.github.io/web/intelonedisplaylight-webfont.svg#webfont') format('svg');
+}
+
+  h1 {
+font-family: 'CustomFont', Arial, sans-serif;
+font-weight:normal;
+font-style:normal;
+}
                         }
