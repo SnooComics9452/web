@@ -1,15 +1,6 @@
- @font-face{
-                        font-family: 'MyWebFont';
-                        src: url('https://snoocomics9452.github.io/web/intelonedisplaylight-webfont.eot');
-                        src: url('https://snoocomics9452.github.io/web/intelonedisplaylight-webfont.eot?#iefix') format('embedded-opentype'),
-                        url('https://snoocomics9452.github.io/web/intelonedisplaylight-webfont.woff') format('woff'),
-                        url('https://snoocomics9452.github.io/web/intelonedisplaylight-webfont.ttf') format('truetype'),
-                        url('https://snoocomics9452.github.io/web/intelonedisplaylight-webfont.svg#webfont') format('svg');
+@font-face {
+    font-family: MyWebFont;
+    src: url("../web/intelonedisplaylight-webfont.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
-
-  h1 {
-font-family: 'CustomFont', Arial, sans-serif;
-font-weight:normal;
-font-style:normal;
-}
-                        }
