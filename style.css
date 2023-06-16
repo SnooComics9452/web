@@ -22,6 +22,22 @@ body{
     
 }
 
+.bottom-left {
+  position: absolute;  
+  bottom: 0;
+  left: 0;
+  padding: 3px;  
+}
+
+.bottom-left a {
+  color: white;  
+  text-decoration: none;
+}
+
+.bottom-left a:hover {
+  text-decoration: underline;  
+}
+
 .margin-content{
     margin-top: 0vh;
 }
