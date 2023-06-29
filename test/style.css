@@ -113,17 +113,13 @@ transform: scale(1.1);
 
   body {
     background-color: rgb(10, 10, 10);
+    font-family: 'Raleway', sans-serif;
     display: grid;
     height: 100vh;
     margin: 0px;
     overflow: hidden;
     place-items: center;
   }
-  h1 {
-    color: white;
-    font-family: 'Raleway', monospace;
-    margin: 0px;
-    text-align: center;
 
   #location {
   font-family: 'IntelOne Display', sans-serif;
