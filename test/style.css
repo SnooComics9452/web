@@ -1,0 +1,127 @@
+:root{
+    --white: rgb(248, 255, 181);
+    --blue: rgb(153, 227, 253);
+    --pink: rgb(255, 157, 247);
+}
+
+body{
+    background-color: #111;
+    font-family: 'Google Sans', sans-serif;
+    color: #fff;
+    display: fixed;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    background:url(assets/wall.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    border-radius: 20px;
+    
+}
+
+
+
+.square {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 5px;
+}
+
+
+
+.btn {
+display: inline-block;
+background-color: #6784F2;
+color: white;
+padding: 10px 50px;
+border: none;
+
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+transition: transform 0.15s ease-out;
+}
+
+.btn1 {
+display: inline-block;
+background-color: #6784F2;
+color: white;
+padding: 10px 50px;
+border: none;
+
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+transition: transform 0.15s ease-out;
+}
+
+.btn2 {
+display: inline-block;
+background-color: #6784F2;
+color: white;
+padding: 10px 50px;
+border: none;
+
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+transition: transform 0.15s ease-out;
+}
+
+.btn3 {
+display: inline-block;
+background-color: #6784F2;
+color: white;
+padding: 10px 50px;
+border: none;
+
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+transition: transform 0.15s ease-out;
+}
+
+
+
+.btn:hover {
+transform: scale(1.1);
+-webkit-transform: scale(1.05);
+}
+
+.btn1:hover {
+transform: scale(1.1);
+-webkit-transform: scale(1.05);
+}
+
+.btn2:hover {
+transform: scale(1.1);
+-webkit-transform: scale(1.05);
+}
+
+.btn3:hover {
+transform: scale(1.1);
+-webkit-transform: scale(1.05);
+}
+
+  body {
+    background-color: rgb(10, 10, 10);
+    display: grid;
+    height: 100vh;
+    margin: 0px;
+    overflow: hidden;
+    place-items: center;
+  }
+  h1 {
+    color: white;
+    font-family: 'Raleway', monospace;
+    margin: 0px;
+    text-align: center;
+}
