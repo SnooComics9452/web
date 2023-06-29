@@ -34,6 +34,7 @@ body{
 
 
 .btn {
+font-family: 'Raleway', sans-serif;
 display: inline-block;
 background-color: #6784F2;
 color: white;
@@ -48,6 +49,7 @@ transition: transform 0.15s ease-out;
 }
 
 .btn1 {
+font-family: 'Raleway', sans-serif;
 display: inline-block;
 background-color: #6784F2;
 color: white;
@@ -62,6 +64,7 @@ transition: transform 0.15s ease-out;
 }
 
 .btn2 {
+font-family: 'Raleway', sans-serif;
 display: inline-block;
 background-color: #6784F2;
 color: white;
@@ -76,6 +79,7 @@ transition: transform 0.15s ease-out;
 }
 
 .btn3 {
+font-family: 'Raleway', sans-serif;
 display: inline-block;
 background-color: #6784F2;
 color: white;
