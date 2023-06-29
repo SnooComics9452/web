@@ -124,4 +124,7 @@ transform: scale(1.1);
     font-family: 'Raleway', monospace;
     margin: 0px;
     text-align: center;
+
+  #location {
+  font-family: 'IntelOne Display', sans-serif;
 }
