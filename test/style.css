@@ -4,6 +4,13 @@
     --pink: rgb(255, 157, 247);
 }
 
+@font-face {
+  font-family: 'IntelOne Display';
+  src: url('assets/intelone-display-regular.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
 body{
     background-color: #111;
     font-family: 'Raleway', sans-serif;
