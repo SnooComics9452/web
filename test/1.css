@@ -68,4 +68,10 @@ transform: scale(1.1);
 
 #time {
 font-family: 'IntelOne Display', sans-serif;
+position: absolute;   
+top: 80px;    
+left: 20px;  
+color: black;
+font-size: 2rem;  
+text-align: center; 
 }
