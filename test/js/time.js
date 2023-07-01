@@ -20,7 +20,3 @@ var strTime = hours + ":" + minutes + " " + timeFormat;
 
 // Display on website
 document.getElementById("time").innerHTML = strTime;
-
-Then in your HTML:
-
-<div id="time"></div>
